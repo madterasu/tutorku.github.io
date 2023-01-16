@@ -12,7 +12,7 @@
 <body>
     <div class="navbar">
         <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#kontak" class="active">Hubungi Kami</a></li>
             <li><a href="#tentang">Tentang</a></li>
             <li style="float:right">
@@ -39,12 +39,12 @@
             <textarea placeholder="Tuliskan pesanmu disini.... *" tabindex="7" required></textarea>
           </fieldset>
           <fieldset>
-            <button name="submit" type="submit" id="kontak-button" data-submit="...Sending">Submit</button>
+            <button name="submit" type="submit" id="kontak-button" data-submit="...Sending">Kirim</button>
           </fieldset>
         </form>
       </div>
       <div class="footer">
-        <h2>Footer</h2>
+        <h2>Copyright© 2023 Achmad | Alif</h2>
       </div>
 </body>
 </html>

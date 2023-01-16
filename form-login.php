@@ -25,7 +25,7 @@
             <input type="password" name="password" required>
     
             <input type="submit" value="Masuk" name="login" class="active">
-            <a href="index.html">Kembali</a>
+            <a href="index.php">Kembali</a>
         </form>
     </div>
 </body>
